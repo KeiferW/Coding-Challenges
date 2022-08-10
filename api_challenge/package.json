@@ -1,0 +1,16 @@
+{
+  "name": "api_challenge",
+  "version": "1.0.0",
+  "description": "Today we’d like you to build a service that manages and manipulates trees. Our goal with this activity isn't to \"stump\" anyone with tricky business but to give candidates a fair and uniform way to express themselves in code on a realistic-ish problem.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "parser": "^0.1.4"
+  }
+}
